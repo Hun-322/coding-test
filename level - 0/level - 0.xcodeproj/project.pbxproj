@@ -1,0 +1,96 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		549AB666292B54A300838CAE /* 두 수의 나눗셈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "두 수의 나눗셈.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		549AB667292B54B200838CAE /* 2차원으로 만들기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2차원으로 만들기.playground"; sourceTree = "<group>"; };
+		549AB668292B54BF00838CAE /* 가까운 수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "가까운 수.playground"; sourceTree = "<group>"; };
+		549AB669292B54C700838CAE /* 공 던지기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "공 던지기.playground"; sourceTree = "<group>"; };
+		549AB66A292B54CE00838CAE /* 소인수분해.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "소인수분해.playground"; sourceTree = "<group>"; };
+		549AB66D292B554000838CAE /* 잘라서 배열로 저장하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "잘라서 배열로 저장하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		549AB66E292B556000838CAE /* 진료 순서 정하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "진료 순서 정하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		549AB66F292B557400838CAE /* 팩토리얼.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "팩토리얼.playground"; sourceTree = "<group>"; };
+		549AB670292B557B00838CAE /* A로 B 만들기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "A로 B 만들기.playground"; sourceTree = "<group>"; };
+		549AB671292B558C00838CAE /* 한 번만 등장한 문자.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "한 번만 등장한 문자.playground"; sourceTree = "<group>"; };
+		549AB672292B559500838CAE /* k의 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "k의 개수.playground"; sourceTree = "<group>"; };
+		549AB673292B55D200838CAE /* 이진수 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "이진수 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		549AB65E292B543900838CAE = {
+			isa = PBXGroup;
+			children = (
+				549AB673292B55D200838CAE /* 이진수 더하기.playground */,
+				549AB672292B559500838CAE /* k의 개수.playground */,
+				549AB671292B558C00838CAE /* 한 번만 등장한 문자.playground */,
+				549AB670292B557B00838CAE /* A로 B 만들기.playground */,
+				549AB66F292B557400838CAE /* 팩토리얼.playground */,
+				549AB66E292B556000838CAE /* 진료 순서 정하기.playground */,
+				549AB66D292B554000838CAE /* 잘라서 배열로 저장하기.playground */,
+				549AB66A292B54CE00838CAE /* 소인수분해.playground */,
+				549AB669292B54C700838CAE /* 공 던지기.playground */,
+				549AB668292B54BF00838CAE /* 가까운 수.playground */,
+				549AB667292B54B200838CAE /* 2차원으로 만들기.playground */,
+				549AB666292B54A300838CAE /* 두 수의 나눗셈.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		549AB65F292B543900838CAE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+			};
+			buildConfigurationList = 549AB662292B543900838CAE /* Build configuration list for PBXProject "level - 0" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 549AB65E292B543900838CAE;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		549AB663292B543900838CAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		549AB664292B543900838CAE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		549AB662292B543900838CAE /* Build configuration list for PBXProject "level - 0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				549AB663292B543900838CAE /* Debug */,
+				549AB664292B543900838CAE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 549AB65F292B543900838CAE /* Project object */;
+}
