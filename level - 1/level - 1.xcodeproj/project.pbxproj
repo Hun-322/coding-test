@@ -15,6 +15,7 @@
 		5484BEA92923E7A900CC07A1 /* 하샤드 수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "하샤드 수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5484BEAA2923EA0D00CC07A1 /* 정수 내림차순으로 배치하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "정수 내림차순으로 배치하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549AB674292B5AB600838CAE /* 음양 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "음양 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		549AB675292B600600838CAE /* 없는 숫자 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "없는 숫자 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549C7BC0292A04F300FC43DB /* 나누어 떨어지는 숫자 배열.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "나누어 떨어지는 숫자 배열.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549C7BC1292A308E00FC43DB /* 제일 작은 수 제거하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "제일 작은 수 제거하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		54B3348629267E1F008DCA72 /* x만큼 간격이 있는 n개의 숫자.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "x만큼 간격이 있는 n개의 숫자.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -29,6 +30,7 @@
 		54F14501291FE54F00AD17D3 = {
 			isa = PBXGroup;
 			children = (
+				549AB675292B600600838CAE /* 없는 숫자 더하기.playground */,
 				549AB674292B5AB600838CAE /* 음양 더하기.playground */,
 				549C7BC1292A308E00FC43DB /* 제일 작은 수 제거하기.playground */,
 				549C7BC0292A04F300FC43DB /* 나누어 떨어지는 숫자 배열.playground */,
