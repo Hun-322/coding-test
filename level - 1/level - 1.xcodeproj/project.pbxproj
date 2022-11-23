@@ -18,6 +18,7 @@
 		549AB675292B600600838CAE /* 없는 숫자 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "없는 숫자 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549AB67A292C597500838CAE /* 가운데 글자 가져오기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "가운데 글자 가져오기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549AB67B292C62B600838CAE /* 수박수박수박수박수박수?.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "수박수박수박수박수박수?.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		549AB67C292D227000838CAE /* 내적.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "내적.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549C7BC0292A04F300FC43DB /* 나누어 떨어지는 숫자 배열.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "나누어 떨어지는 숫자 배열.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549C7BC1292A308E00FC43DB /* 제일 작은 수 제거하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "제일 작은 수 제거하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		54B3348629267E1F008DCA72 /* x만큼 간격이 있는 n개의 숫자.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "x만큼 간격이 있는 n개의 숫자.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -32,6 +33,7 @@
 		54F14501291FE54F00AD17D3 = {
 			isa = PBXGroup;
 			children = (
+				549AB67C292D227000838CAE /* 내적.playground */,
 				549AB67B292C62B600838CAE /* 수박수박수박수박수박수?.playground */,
 				549AB67A292C597500838CAE /* 가운데 글자 가져오기.playground */,
 				549AB675292B600600838CAE /* 없는 숫자 더하기.playground */,
