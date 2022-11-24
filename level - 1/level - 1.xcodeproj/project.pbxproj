@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5411B42D292F007900066890 /* 문자열 다루기 기본.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열 다루기 기본.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5433C0882926810100F1BB45 /* 나머지가 1이 되는 수 찾기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "나머지가 1이 되는 수 찾기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		545AB65C292762DF00AD0A03 /* 두 정수 사이의 합.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "두 정수 사이의 합.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5484BEA62922870100CC07A1 /* 정수 제곱근 판별.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "정수 제곱근 판별.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -34,6 +35,7 @@
 		54F14501291FE54F00AD17D3 = {
 			isa = PBXGroup;
 			children = (
+				5411B42D292F007900066890 /* 문자열 다루기 기본.playground */,
 				549AB67D292E111400838CAE /* 문자열 내림차순으로 배치하기.playground */,
 				549AB67C292D227000838CAE /* 내적.playground */,
 				549AB67B292C62B600838CAE /* 수박수박수박수박수박수?.playground */,
