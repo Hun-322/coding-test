@@ -7,8 +7,9 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5423785529322E79008135B6 /* 숨어있는 숫자의 덧셈 (2).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "숨어있는 숫자의 덧셈 (2).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549AB666292B54A300838CAE /* 두 수의 나눗셈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "두 수의 나눗셈.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		549AB667292B54B200838CAE /* 2차원으로 만들기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2차원으로 만들기.playground"; sourceTree = "<group>"; };
+		549AB667292B54B200838CAE /* 2차원으로 만들기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2차원으로 만들기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549AB668292B54BF00838CAE /* 가까운 수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "가까운 수.playground"; sourceTree = "<group>"; };
 		549AB669292B54C700838CAE /* 공 던지기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "공 던지기.playground"; sourceTree = "<group>"; };
 		549AB66A292B54CE00838CAE /* 소인수분해.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "소인수분해.playground"; sourceTree = "<group>"; };
@@ -17,7 +18,7 @@
 		549AB66F292B557400838CAE /* 팩토리얼.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "팩토리얼.playground"; sourceTree = "<group>"; };
 		549AB670292B557B00838CAE /* A로 B 만들기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "A로 B 만들기.playground"; sourceTree = "<group>"; };
 		549AB671292B558C00838CAE /* 한 번만 등장한 문자.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "한 번만 등장한 문자.playground"; sourceTree = "<group>"; };
-		549AB672292B559500838CAE /* k의 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "k의 개수.playground"; sourceTree = "<group>"; };
+		549AB672292B559500838CAE /* k의 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "k의 개수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		549AB673292B55D200838CAE /* 이진수 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "이진수 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -25,6 +26,7 @@
 		549AB65E292B543900838CAE = {
 			isa = PBXGroup;
 			children = (
+				5423785529322E79008135B6 /* 숨어있는 숫자의 덧셈 (2).playground */,
 				549AB673292B55D200838CAE /* 이진수 더하기.playground */,
 				549AB672292B559500838CAE /* k의 개수.playground */,
 				549AB671292B558C00838CAE /* 한 번만 등장한 문자.playground */,
