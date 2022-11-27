@@ -31,7 +31,7 @@ func lcm2(_ a: Int, _ b: Int) -> Int {
     return a * b / gcd2(a, b)
 }
 
-func solution(_ n:Int, _ m:Int) -> [adsInt] {
+func solution(_ n:Int, _ m:Int) -> [Int] {
     return [gcd2(n, m), lcm2(n, m)]
 }
 
