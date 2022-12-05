@@ -10,6 +10,7 @@
 		5411B42D292F007900066890 /* 문자열 다루기 기본.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열 다루기 기본.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5411B42E292F044B00066890 /* 약수의 개수와 덧셈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "약수의 개수와 덧셈.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		541B6644293C33B2000E8A89 /* 시저 암호.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "시저 암호.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		541B6649293D90AC000E8A89 /* 최소직사각형.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "최소직사각형.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5423785129309392008135B6 /* 부족한 금액 계산하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "부족한 금액 계산하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		542378532930C54F008135B6 /* 행렬의 덧셈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "행렬의 덧셈.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		54237854293219E3008135B6 /* 직사각형 별찍기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "직사각형 별찍기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -44,6 +45,7 @@
 		54F14501291FE54F00AD17D3 = {
 			isa = PBXGroup;
 			children = (
+				541B6649293D90AC000E8A89 /* 최소직사각형.playground */,
 				541B6644293C33B2000E8A89 /* 시저 암호.playground */,
 				5424A3052938437A0085C977 /* 예산.playground */,
 				5448FBA62935F57D0048059C /* 3진법 뒤집기.playground */,
