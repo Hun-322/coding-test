@@ -21,6 +21,7 @@
 		545AB65C292762DF00AD0A03 /* 두 정수 사이의 합.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "두 정수 사이의 합.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		547BE8712944CC8E005D40A2 /* 숫자 문자열과 영단어.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "숫자 문자열과 영단어.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		547BE874294623FB005D40A2 /* 삼총사.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "삼총사.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		547BE87629475646005D40A2 /* 두 개 뽑아서 더하기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "두 개 뽑아서 더하기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5484BEA62922870100CC07A1 /* 정수 제곱근 판별.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "정수 제곱근 판별.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5484BEA729237D0400CC07A1 /* 문자열 내 p와 y의 개수.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열 내 p와 y의 개수.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5484BEA82923E53600CC07A1 /* 문자열을 정수로 바꾸기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열을 정수로 바꾸기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -50,6 +51,7 @@
 		54F14501291FE54F00AD17D3 = {
 			isa = PBXGroup;
 			children = (
+				547BE87629475646005D40A2 /* 두 개 뽑아서 더하기.playground */,
 				547BE874294623FB005D40A2 /* 삼총사.playground */,
 				547BE8712944CC8E005D40A2 /* 숫자 문자열과 영단어.playground */,
 				54C55A9F2943817500A7690E /* K번째수.playground */,
