@@ -12,6 +12,7 @@
 		54061CA829533CA40091963B /* 소수 만들기.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "소수 만들기.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		540D9D0A2957686B00EACAC3 /* 콜라 문제.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "콜라 문제.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		540D9D0B29588E8900EACAC3 /* 크기가 작은 부분문자열.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "크기가 작은 부분문자열.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		540D9D0C2959DAFA00EACAC3 /* 실패율.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "실패율.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5411B42D292F007900066890 /* 문자열 다루기 기본.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "문자열 다루기 기본.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5411B42E292F044B00066890 /* 약수의 개수와 덧셈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "약수의 개수와 덧셈.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		541B6644293C33B2000E8A89 /* 시저 암호.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "시저 암호.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -57,6 +58,7 @@
 		54F14501291FE54F00AD17D3 = {
 			isa = PBXGroup;
 			children = (
+				540D9D0C2959DAFA00EACAC3 /* 실패율.playground */,
 				540D9D0B29588E8900EACAC3 /* 크기가 작은 부분문자열.playground */,
 				540D9D0A2957686B00EACAC3 /* 콜라 문제.playground */,
 				54D97FA22954D22100EEDD88 /* 모의고사.playground */,
