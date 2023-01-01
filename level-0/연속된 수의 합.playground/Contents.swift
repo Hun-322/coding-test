@@ -1,6 +1,7 @@
 import Foundation
 
 // 첫 통과 풀이
+// 이메일 오류로 재 커밋
 func solution(_ num:Int, _ total:Int) -> [Int] {
     var sum = num * (1 + num) / 2
     var start = (total - sum) / num
